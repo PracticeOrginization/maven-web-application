@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to MyHomeTech  Pvt Ltd. Ph No: +91-80000000, +91-8000900001  Bengaluru,Karnataka,India.</h1>
+<h1 align="center">Welcome to MyHomeTech  Pvt Ltd. Ph No: +91-90000000, +91-9000900001  Bengaluru,Karnataka,India.</h1>
 <h1 align="center"> MyHomeTech - Very Good Training center for DevOps with AWS,Python & AWS Solution Architect in Bangalore India.Teaching Real Time scnerios</h1>
 <hr>
 <br>
@@ -37,7 +37,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		Mithun Technologies, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
-		+91-900000000,+91-80000025
+		+91-900000000,+91-90000025
 		devopstrainingblr@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
