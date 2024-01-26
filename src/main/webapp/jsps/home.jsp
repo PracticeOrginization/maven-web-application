@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to MyHomeTech  Pvt Ltd. Ph No: +91-9999999, +91-999999  Bengaluru,Karnataka,India.</h1>
+<h1 align="center">Welcome to Our HomeOfTech . Ph No: +91-18181818, +91-999999  Bengaluru,Karnataka,India.</h1>
 <h1 align="center"> MyHomeTech - Very Good Training center for DevOps with AWS,Python & AWS Solution Architect in Bangalore India.Teaching Real Time scnerios</h1>
 <hr>
 <br>
